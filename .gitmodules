@@ -32,3 +32,6 @@
 	path = barclamps/test
 	url = http://github.com/dellcloudedge/barclamp-test.git
 
+[submodule "barclamps/indigo"]
+	path = barclamps/indigo
+	url = https://github.com/dellcloudedge/barclamp-indigo.git
